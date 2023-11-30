@@ -1,0 +1,592 @@
+Id,Action,Extension,Date,Name,"IP Address"
+1,"User kupul-ca logged in to admin",Users,"2023-11-24 06:12:38 UTC","CCP User",Disabled
+2,"User kupul-ca logged in to admin",Users,"2023-11-28 06:57:16 UTC","CCP User",Disabled
+3,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:12:57 UTC","CCP User",Disabled
+4,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-28 07:13:49 UTC","CCP User",Disabled
+5,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-28 07:19:07 UTC","CCP User",Disabled
+6,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:19:20 UTC","CCP User",Disabled
+7,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-28 07:19:39 UTC","CCP User",Disabled
+8,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:20:08 UTC","CCP User",Disabled
+9,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-28 07:20:21 UTC","CCP User",Disabled
+10,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:24:54 UTC","CCP User",Disabled
+11,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-28 07:25:08 UTC","CCP User",Disabled
+12,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-28 07:25:15 UTC","CCP User",Disabled
+13,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-28 07:27:36 UTC","CCP User",Disabled
+14,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:27:44 UTC","CCP User",Disabled
+15,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-28 07:27:52 UTC","CCP User",Disabled
+16,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Categories,"2023-11-28 07:32:44 UTC","CCP User",Disabled
+17,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Categories,"2023-11-28 07:33:00 UTC","CCP User",Disabled
+18,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 07:43:28 UTC","CCP User",Disabled
+19,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 07:44:49 UTC","CCP User",Disabled
+20,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 07:51:09 UTC","CCP User",Disabled
+21,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 07:59:25 UTC","CCP User",Disabled
+22,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 08:03:33 UTC","CCP User",Disabled
+23,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 08:04:27 UTC","CCP User",Disabled
+24,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 08:06:14 UTC","CCP User",Disabled
+25,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 08:06:14 UTC","CCP User",Disabled
+26,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-28 08:09:05 UTC","CCP User",Disabled
+27,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 08:10:20 UTC","CCP User",Disabled
+28,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-28 08:10:25 UTC","CCP User",Disabled
+29,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:12:03 UTC","CCP User",Disabled
+30,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:12:03 UTC","CCP User",Disabled
+31,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 08:13:16 UTC","CCP User",Disabled
+32,PLG_SYSTEM_ACTIONLOGS_CONTENT_UNPUBLISHED,Modules,"2023-11-28 08:13:16 UTC","CCP User",Disabled
+33,"User kupul-ca changed settings of the component Articles",Configuration,"2023-11-28 08:15:16 UTC","CCP User",Disabled
+34,"User kupul-ca changed settings of the component Articles",Configuration,"2023-11-28 08:16:14 UTC","CCP User",Disabled
+35,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:17:07 UTC","CCP User",Disabled
+36,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:17:07 UTC","CCP User",Disabled
+37,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:17:40 UTC","CCP User",Disabled
+38,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:18:11 UTC","CCP User",Disabled
+39,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:18:40 UTC","CCP User",Disabled
+40,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:18:40 UTC","CCP User",Disabled
+41,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:19:14 UTC","CCP User",Disabled
+42,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:19:14 UTC","CCP User",Disabled
+43,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 08:21:39 UTC","CCP User",Disabled
+44,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 08:21:39 UTC","CCP User",Disabled
+45,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 08:26:39 UTC","CCP User",Disabled
+46,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 08:26:39 UTC","CCP User",Disabled
+47,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:27:56 UTC","CCP User",Disabled
+48,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:27:56 UTC","CCP User",Disabled
+49,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:28:20 UTC","CCP User",Disabled
+50,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:28:20 UTC","CCP User",Disabled
+51,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 08:30:39 UTC","CCP User",Disabled
+52,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 08:30:39 UTC","CCP User",Disabled
+53,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-28 08:32:12 UTC","CCP User",Disabled
+54,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 08:33:14 UTC","CCP User",Disabled
+55,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 08:33:14 UTC","CCP User",Disabled
+56,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:33:43 UTC","CCP User",Disabled
+57,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:33:43 UTC","CCP User",Disabled
+58,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-28 08:35:49 UTC","CCP User",Disabled
+59,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:38:24 UTC","CCP User",Disabled
+60,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 08:38:24 UTC","CCP User",Disabled
+61,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 08:39:28 UTC","CCP User",Disabled
+62,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 08:44:33 UTC","CCP User",Disabled
+63,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 08:45:09 UTC","CCP User",Disabled
+64,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:00:38 UTC","CCP User",Disabled
+65,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:02:26 UTC","CCP User",Disabled
+66,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:02:26 UTC","CCP User",Disabled
+67,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:04:13 UTC","CCP User",Disabled
+68,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:04:13 UTC","CCP User",Disabled
+69,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:05:17 UTC","CCP User",Disabled
+70,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:05:17 UTC","CCP User",Disabled
+71,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:05:50 UTC","CCP User",Disabled
+72,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:05:50 UTC","CCP User",Disabled
+73,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:08:31 UTC","CCP User",Disabled
+74,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:09:11 UTC","CCP User",Disabled
+75,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:09:11 UTC","CCP User",Disabled
+76,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:09:19 UTC","CCP User",Disabled
+77,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:09:19 UTC","CCP User",Disabled
+78,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:12:09 UTC","CCP User",Disabled
+79,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:12:31 UTC","CCP User",Disabled
+80,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:12:31 UTC","CCP User",Disabled
+81,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:13:05 UTC","CCP User",Disabled
+82,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:13:05 UTC","CCP User",Disabled
+83,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:14:21 UTC","CCP User",Disabled
+84,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:14:38 UTC","CCP User",Disabled
+85,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:14:38 UTC","CCP User",Disabled
+86,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:15:47 UTC","CCP User",Disabled
+87,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:15:47 UTC","CCP User",Disabled
+88,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:15:53 UTC","CCP User",Disabled
+89,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:15:53 UTC","CCP User",Disabled
+90,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:16:53 UTC","CCP User",Disabled
+91,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:17:12 UTC","CCP User",Disabled
+92,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:17:12 UTC","CCP User",Disabled
+93,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:17:31 UTC","CCP User",Disabled
+94,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:17:31 UTC","CCP User",Disabled
+95,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:18:54 UTC","CCP User",Disabled
+96,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:19:11 UTC","CCP User",Disabled
+97,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:19:11 UTC","CCP User",Disabled
+98,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:19:58 UTC","CCP User",Disabled
+99,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:19:58 UTC","CCP User",Disabled
+100,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:21:19 UTC","CCP User",Disabled
+101,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:21:43 UTC","CCP User",Disabled
+102,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:21:43 UTC","CCP User",Disabled
+103,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:22:11 UTC","CCP User",Disabled
+104,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:22:11 UTC","CCP User",Disabled
+105,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:22:14 UTC","CCP User",Disabled
+106,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-28 09:22:14 UTC","CCP User",Disabled
+107,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-28 09:23:35 UTC","CCP User",Disabled
+108,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:23:54 UTC","CCP User",Disabled
+109,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:23:54 UTC","CCP User",Disabled
+110,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:24:25 UTC","CCP User",Disabled
+111,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:24:25 UTC","CCP User",Disabled
+112,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:25:02 UTC","CCP User",Disabled
+113,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:25:02 UTC","CCP User",Disabled
+114,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:25:44 UTC","CCP User",Disabled
+115,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 09:25:44 UTC","CCP User",Disabled
+116,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:25:47 UTC","CCP User",Disabled
+117,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:26:53 UTC","CCP User",Disabled
+118,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 09:26:53 UTC","CCP User",Disabled
+119,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:27:18 UTC","CCP User",Disabled
+120,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:28:35 UTC","CCP User",Disabled
+121,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 09:28:35 UTC","CCP User",Disabled
+122,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:29:19 UTC","CCP User",Disabled
+123,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:30:43 UTC","CCP User",Disabled
+124,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:30:43 UTC","CCP User",Disabled
+125,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:31:21 UTC","CCP User",Disabled
+126,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:31:21 UTC","CCP User",Disabled
+127,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:31:39 UTC","CCP User",Disabled
+128,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:31:39 UTC","CCP User",Disabled
+129,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:31:59 UTC","CCP User",Disabled
+130,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:31:59 UTC","CCP User",Disabled
+131,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:32:21 UTC","CCP User",Disabled
+132,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:32:21 UTC","CCP User",Disabled
+133,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:32:45 UTC","CCP User",Disabled
+134,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:32:45 UTC","CCP User",Disabled
+135,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:33:01 UTC","CCP User",Disabled
+136,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:33:01 UTC","CCP User",Disabled
+137,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:33:17 UTC","CCP User",Disabled
+138,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:33:17 UTC","CCP User",Disabled
+139,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:33:31 UTC","CCP User",Disabled
+140,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:33:31 UTC","CCP User",Disabled
+141,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:34:15 UTC","CCP User",Disabled
+142,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:34:15 UTC","CCP User",Disabled
+143,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:35:15 UTC","CCP User",Disabled
+144,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:35:15 UTC","CCP User",Disabled
+145,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-28 09:35:50 UTC","CCP User",Disabled
+146,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-28 09:35:50 UTC","CCP User",Disabled
+147,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 09:41:33 UTC","CCP User",Disabled
+148,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 09:41:33 UTC","CCP User",Disabled
+149,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 09:43:13 UTC","CCP User",Disabled
+150,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 09:43:13 UTC","CCP User",Disabled
+151,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 09:44:58 UTC","CCP User",Disabled
+152,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 09:44:58 UTC","CCP User",Disabled
+153,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Categories,"2023-11-28 09:46:16 UTC","CCP User",Disabled
+154,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Contacts,"2023-11-28 09:48:37 UTC","CCP User",Disabled
+155,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:49:40 UTC","CCP User",Disabled
+156,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-28 09:49:40 UTC","CCP User",Disabled
+157,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:52:02 UTC","CCP User",Disabled
+158,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:52:29 UTC","CCP User",Disabled
+159,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:53:02 UTC","CCP User",Disabled
+160,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:53:31 UTC","CCP User",Disabled
+161,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:53:48 UTC","CCP User",Disabled
+162,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-28 09:58:30 UTC","CCP User",Disabled
+163,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-28 10:00:31 UTC","CCP User",Disabled
+164,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 10:04:45 UTC","CCP User",Disabled
+165,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 10:04:45 UTC","CCP User",Disabled
+166,"User kupul-ca installed the library Smart Slider 3 Library",Installer,"2023-11-28 10:05:23 UTC","CCP User",Disabled
+167,"User kupul-ca installed the module Smart Slider 3 Module",Installer,"2023-11-28 10:05:23 UTC","CCP User",Disabled
+168,"User kupul-ca installed the plugin Smart Slider 3 Updater Plugin",Installer,"2023-11-28 10:05:23 UTC","CCP User",Disabled
+169,"User kupul-ca installed the plugin Smart Slider 3 System Plugin",Installer,"2023-11-28 10:05:23 UTC","CCP User",Disabled
+170,"User kupul-ca installed the component Smart Slider 3",Installer,"2023-11-28 10:05:23 UTC","CCP User",Disabled
+171,"User kupul-ca installed the library Smart Slider 3 Library",Installer,"2023-11-28 10:28:49 UTC","CCP User",Disabled
+172,"User kupul-ca installed the module Smart Slider 3 Module",Installer,"2023-11-28 10:28:49 UTC","CCP User",Disabled
+173,"User kupul-ca installed the plugin Smart Slider 3 Updater Plugin",Installer,"2023-11-28 10:28:49 UTC","CCP User",Disabled
+174,"User kupul-ca installed the plugin Smart Slider 3 System Plugin",Installer,"2023-11-28 10:28:49 UTC","CCP User",Disabled
+175,"User kupul-ca installed the component Smart Slider 3",Installer,"2023-11-28 10:28:49 UTC","CCP User",Disabled
+176,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 10:42:34 UTC","CCP User",Disabled
+177,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 10:42:34 UTC","CCP User",Disabled
+178,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-28 10:47:50 UTC","CCP User",Disabled
+179,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-28 10:47:50 UTC","CCP User",Disabled
+180,"User kupul-ca logged in to admin",Users,"2023-11-28 11:10:48 UTC","CCP User",Disabled
+181,"User kupul-ca logged in to admin",Users,"2023-11-29 09:23:23 UTC","CCP User",Disabled
+182,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:43:57 UTC","CCP User",Disabled
+183,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 09:43:57 UTC","CCP User",Disabled
+184,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:44:30 UTC","CCP User",Disabled
+185,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:44:30 UTC","CCP User",Disabled
+186,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:44:44 UTC","CCP User",Disabled
+187,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:44:44 UTC","CCP User",Disabled
+188,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:47:16 UTC","CCP User",Disabled
+189,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:47:16 UTC","CCP User",Disabled
+190,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:57:25 UTC","CCP User",Disabled
+191,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:57:25 UTC","CCP User",Disabled
+192,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:58:50 UTC","CCP User",Disabled
+193,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:58:50 UTC","CCP User",Disabled
+194,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 09:59:10 UTC","CCP User",Disabled
+195,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 09:59:10 UTC","CCP User",Disabled
+196,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:13:43 UTC","CCP User",Disabled
+197,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 10:15:42 UTC","CCP User",Disabled
+198,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:16:56 UTC","CCP User",Disabled
+199,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:16:56 UTC","CCP User",Disabled
+200,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:17:29 UTC","CCP User",Disabled
+201,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 10:17:29 UTC","CCP User",Disabled
+202,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:22:29 UTC","CCP User",Disabled
+203,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:23:47 UTC","CCP User",Disabled
+204,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:23:47 UTC","CCP User",Disabled
+205,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:24:03 UTC","CCP User",Disabled
+206,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 10:24:03 UTC","CCP User",Disabled
+207,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:26:11 UTC","CCP User",Disabled
+208,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:26:11 UTC","CCP User",Disabled
+209,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:28:56 UTC","CCP User",Disabled
+210,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:28:56 UTC","CCP User",Disabled
+211,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:32:05 UTC","CCP User",Disabled
+212,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:32:42 UTC","CCP User",Disabled
+213,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:32:42 UTC","CCP User",Disabled
+214,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:33:46 UTC","CCP User",Disabled
+215,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:33:46 UTC","CCP User",Disabled
+216,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:35:15 UTC","CCP User",Disabled
+217,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:35:15 UTC","CCP User",Disabled
+218,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:42:13 UTC","CCP User",Disabled
+219,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:43:25 UTC","CCP User",Disabled
+220,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-29 10:43:34 UTC","CCP User",Disabled
+221,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-29 10:43:41 UTC","CCP User",Disabled
+222,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:44:55 UTC","CCP User",Disabled
+223,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:44:55 UTC","CCP User",Disabled
+224,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:45:17 UTC","CCP User",Disabled
+225,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:45:17 UTC","CCP User",Disabled
+226,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:45:53 UTC","CCP User",Disabled
+227,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:46:31 UTC","CCP User",Disabled
+228,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:47:38 UTC","CCP User",Disabled
+229,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:47:38 UTC","CCP User",Disabled
+230,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:48:16 UTC","CCP User",Disabled
+231,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:48:16 UTC","CCP User",Disabled
+232,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:48:37 UTC","CCP User",Disabled
+233,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:48:37 UTC","CCP User",Disabled
+234,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:51:44 UTC","CCP User",Disabled
+235,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:53:14 UTC","CCP User",Disabled
+236,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-29 10:53:24 UTC","CCP User",Disabled
+237,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:53:52 UTC","CCP User",Disabled
+238,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:54:53 UTC","CCP User",Disabled
+239,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:54:53 UTC","CCP User",Disabled
+240,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:55:14 UTC","CCP User",Disabled
+241,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:55:14 UTC","CCP User",Disabled
+242,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:55:47 UTC","CCP User",Disabled
+243,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:55:47 UTC","CCP User",Disabled
+244,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 10:56:15 UTC","CCP User",Disabled
+245,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 10:56:32 UTC","CCP User",Disabled
+246,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 10:56:32 UTC","CCP User",Disabled
+247,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 10:58:26 UTC","CCP User",Disabled
+248,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 10:58:26 UTC","CCP User",Disabled
+249,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:02:40 UTC","CCP User",Disabled
+250,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:02:40 UTC","CCP User",Disabled
+251,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 11:05:56 UTC","CCP User",Disabled
+252,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:07:21 UTC","CCP User",Disabled
+253,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:07:36 UTC","CCP User",Disabled
+254,PLG_SYSTEM_ACTIONLOGS_CONTENT_TRASHED,Modules,"2023-11-29 11:07:36 UTC","CCP User",Disabled
+255,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 11:11:24 UTC","CCP User",Disabled
+256,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:12:51 UTC","CCP User",Disabled
+257,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:12:51 UTC","CCP User",Disabled
+258,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:14:43 UTC","CCP User",Disabled
+259,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:14:43 UTC","CCP User",Disabled
+260,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:15:21 UTC","CCP User",Disabled
+261,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:15:21 UTC","CCP User",Disabled
+262,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:15:33 UTC","CCP User",Disabled
+263,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:15:33 UTC","CCP User",Disabled
+264,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:18:22 UTC","CCP User",Disabled
+265,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:18:22 UTC","CCP User",Disabled
+266,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:18:28 UTC","CCP User",Disabled
+267,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:18:28 UTC","CCP User",Disabled
+268,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 11:22:07 UTC","CCP User",Disabled
+269,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 11:22:39 UTC","CCP User",Disabled
+270,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 11:24:11 UTC","CCP User",Disabled
+271,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:24:13 UTC","CCP User",Disabled
+272,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:24:13 UTC","CCP User",Disabled
+273,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:24:28 UTC","CCP User",Disabled
+274,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:24:28 UTC","CCP User",Disabled
+275,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:32:20 UTC","CCP User",Disabled
+276,PLG_SYSTEM_ACTIONLOGS_CONTENT_TRASHED,Modules,"2023-11-29 11:34:32 UTC","CCP User",Disabled
+277,PLG_SYSTEM_ACTIONLOGS_CONTENT_TRASHED,Modules,"2023-11-29 11:34:32 UTC","CCP User",Disabled
+278,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:36:07 UTC","CCP User",Disabled
+279,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:36:07 UTC","CCP User",Disabled
+280,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:36:49 UTC","CCP User",Disabled
+281,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:36:49 UTC","CCP User",Disabled
+282,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:37:22 UTC","CCP User",Disabled
+283,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:37:22 UTC","CCP User",Disabled
+284,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:38:23 UTC","CCP User",Disabled
+285,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:38:23 UTC","CCP User",Disabled
+286,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:39:07 UTC","CCP User",Disabled
+287,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:39:07 UTC","CCP User",Disabled
+288,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:40:07 UTC","CCP User",Disabled
+289,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:40:07 UTC","CCP User",Disabled
+290,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:40:10 UTC","CCP User",Disabled
+291,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:40:10 UTC","CCP User",Disabled
+292,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Categories,"2023-11-29 11:40:55 UTC","CCP User",Disabled
+293,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Categories,"2023-11-29 11:40:58 UTC","CCP User",Disabled
+294,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:40:58 UTC","CCP User",Disabled
+295,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:41:26 UTC","CCP User",Disabled
+296,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:41:39 UTC","CCP User",Disabled
+297,PLG_SYSTEM_ACTIONLOGS_CONTENT_TRASHED,Categories,"2023-11-29 11:41:39 UTC","CCP User",Disabled
+298,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:42:03 UTC","CCP User",Disabled
+299,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Categories,"2023-11-29 11:42:03 UTC","CCP User",Disabled
+300,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:44:07 UTC","CCP User",Disabled
+301,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:44:37 UTC","CCP User",Disabled
+302,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:45:11 UTC","CCP User",Disabled
+303,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:45:21 UTC","CCP User",Disabled
+304,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Categories,"2023-11-29 11:45:30 UTC","CCP User",Disabled
+305,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:45:30 UTC","CCP User",Disabled
+306,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:45:35 UTC","CCP User",Disabled
+307,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Categories,"2023-11-29 11:46:41 UTC","CCP User",Disabled
+308,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:46:41 UTC","CCP User",Disabled
+309,"User kupul-ca performed a check in to table #__categories",Check-in,"2023-11-29 11:46:45 UTC","CCP User",Disabled
+310,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:47:15 UTC","CCP User",Disabled
+311,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:47:15 UTC","CCP User",Disabled
+312,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:48:18 UTC","CCP User",Disabled
+313,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:48:18 UTC","CCP User",Disabled
+314,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:49:34 UTC","CCP User",Disabled
+315,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:49:34 UTC","CCP User",Disabled
+316,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:50:35 UTC","CCP User",Disabled
+317,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:50:35 UTC","CCP User",Disabled
+318,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:51:10 UTC","CCP User",Disabled
+319,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:51:10 UTC","CCP User",Disabled
+320,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:51:28 UTC","CCP User",Disabled
+321,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:51:28 UTC","CCP User",Disabled
+322,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:52:09 UTC","CCP User",Disabled
+323,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:52:09 UTC","CCP User",Disabled
+324,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:53:27 UTC","CCP User",Disabled
+325,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:53:27 UTC","CCP User",Disabled
+326,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:55:55 UTC","CCP User",Disabled
+327,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:55:55 UTC","CCP User",Disabled
+328,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:57:49 UTC","CCP User",Disabled
+329,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:57:49 UTC","CCP User",Disabled
+330,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 11:58:25 UTC","CCP User",Disabled
+331,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 11:58:25 UTC","CCP User",Disabled
+332,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 11:59:20 UTC","CCP User",Disabled
+333,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 11:59:20 UTC","CCP User",Disabled
+334,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:00:46 UTC","CCP User",Disabled
+335,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:00:46 UTC","CCP User",Disabled
+336,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:00:55 UTC","CCP User",Disabled
+337,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:00:55 UTC","CCP User",Disabled
+338,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:01:12 UTC","CCP User",Disabled
+339,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:01:12 UTC","CCP User",Disabled
+340,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 12:01:35 UTC","CCP User",Disabled
+341,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 12:01:35 UTC","CCP User",Disabled
+342,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 12:01:59 UTC","CCP User",Disabled
+343,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 12:01:59 UTC","CCP User",Disabled
+344,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:02:40 UTC","CCP User",Disabled
+345,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:02:40 UTC","CCP User",Disabled
+346,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 12:16:36 UTC","CCP User",Disabled
+347,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 12:16:36 UTC","CCP User",Disabled
+348,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 12:18:02 UTC","CCP User",Disabled
+349,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 12:18:02 UTC","CCP User",Disabled
+350,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 12:25:45 UTC","CCP User",Disabled
+351,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 12:25:45 UTC","CCP User",Disabled
+352,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 12:37:30 UTC","CCP User",Disabled
+353,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:38:21 UTC","CCP User",Disabled
+354,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:38:21 UTC","CCP User",Disabled
+355,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:41:17 UTC","CCP User",Disabled
+356,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:41:17 UTC","CCP User",Disabled
+357,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:42:37 UTC","CCP User",Disabled
+358,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:42:37 UTC","CCP User",Disabled
+359,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 12:45:58 UTC","CCP User",Disabled
+360,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:46:15 UTC","CCP User",Disabled
+361,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:46:15 UTC","CCP User",Disabled
+362,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 12:48:01 UTC","CCP User",Disabled
+363,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:48:39 UTC","CCP User",Disabled
+364,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:48:39 UTC","CCP User",Disabled
+365,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 12:49:31 UTC","CCP User",Disabled
+366,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:49:53 UTC","CCP User",Disabled
+367,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:49:53 UTC","CCP User",Disabled
+368,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:51:05 UTC","CCP User",Disabled
+369,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:51:05 UTC","CCP User",Disabled
+370,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:53:49 UTC","CCP User",Disabled
+371,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:53:49 UTC","CCP User",Disabled
+372,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:54:27 UTC","CCP User",Disabled
+373,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 12:54:27 UTC","CCP User",Disabled
+374,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 12:59:53 UTC","CCP User",Disabled
+375,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 12:59:53 UTC","CCP User",Disabled
+376,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:04:09 UTC","CCP User",Disabled
+377,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:04:09 UTC","CCP User",Disabled
+378,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:04:50 UTC","CCP User",Disabled
+379,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:04:50 UTC","CCP User",Disabled
+380,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:05:20 UTC","CCP User",Disabled
+381,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:05:20 UTC","CCP User",Disabled
+382,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:05:41 UTC","CCP User",Disabled
+383,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:05:41 UTC","CCP User",Disabled
+384,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:07:10 UTC","CCP User",Disabled
+385,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:07:10 UTC","CCP User",Disabled
+386,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:07:54 UTC","CCP User",Disabled
+387,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:07:54 UTC","CCP User",Disabled
+388,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:08:09 UTC","CCP User",Disabled
+389,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:08:09 UTC","CCP User",Disabled
+390,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:08:20 UTC","CCP User",Disabled
+391,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:08:20 UTC","CCP User",Disabled
+392,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:09:26 UTC","CCP User",Disabled
+393,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:09:26 UTC","CCP User",Disabled
+394,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:10:03 UTC","CCP User",Disabled
+395,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:10:33 UTC","CCP User",Disabled
+396,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 13:10:33 UTC","CCP User",Disabled
+397,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:11:36 UTC","CCP User",Disabled
+398,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:11:36 UTC","CCP User",Disabled
+399,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:12:02 UTC","CCP User",Disabled
+400,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:12:02 UTC","CCP User",Disabled
+401,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 13:13:59 UTC","CCP User",Disabled
+402,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:14:57 UTC","CCP User",Disabled
+403,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:14:57 UTC","CCP User",Disabled
+404,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:16:31 UTC","CCP User",Disabled
+405,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:16:31 UTC","CCP User",Disabled
+406,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:21:52 UTC","CCP User",Disabled
+407,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:21:52 UTC","CCP User",Disabled
+408,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:22:57 UTC","CCP User",Disabled
+409,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:22:57 UTC","CCP User",Disabled
+410,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:23:36 UTC","CCP User",Disabled
+411,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:23:36 UTC","CCP User",Disabled
+412,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:25:30 UTC","CCP User",Disabled
+413,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:25:30 UTC","CCP User",Disabled
+414,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:27:15 UTC","CCP User",Disabled
+415,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:27:15 UTC","CCP User",Disabled
+416,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:27:25 UTC","CCP User",Disabled
+417,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:27:25 UTC","CCP User",Disabled
+418,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:27:57 UTC","CCP User",Disabled
+419,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:27:57 UTC","CCP User",Disabled
+420,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:28:42 UTC","CCP User",Disabled
+421,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:28:42 UTC","CCP User",Disabled
+422,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 13:32:56 UTC","CCP User",Disabled
+423,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 13:33:23 UTC","CCP User",Disabled
+424,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 13:33:50 UTC","CCP User",Disabled
+425,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 13:34:03 UTC","CCP User",Disabled
+426,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 13:35:03 UTC","CCP User",Disabled
+427,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:35:55 UTC","CCP User",Disabled
+428,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:35:55 UTC","CCP User",Disabled
+429,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:36:46 UTC","CCP User",Disabled
+430,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:36:46 UTC","CCP User",Disabled
+431,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 13:40:07 UTC","CCP User",Disabled
+432,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Articles,"2023-11-29 13:40:07 UTC","CCP User",Disabled
+433,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 13:40:19 UTC","CCP User",Disabled
+434,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 13:40:19 UTC","CCP User",Disabled
+435,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 13:42:14 UTC","CCP User",Disabled
+436,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 13:45:34 UTC","CCP User",Disabled
+437,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 13:45:34 UTC","CCP User",Disabled
+438,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 13:46:13 UTC","CCP User",Disabled
+439,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 13:46:13 UTC","CCP User",Disabled
+440,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-29 13:48:16 UTC","CCP User",Disabled
+441,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Menus,"2023-11-29 13:48:37 UTC","CCP User",Disabled
+442,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 13:49:03 UTC","CCP User",Disabled
+443,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-29 13:49:54 UTC","CCP User",Disabled
+444,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:51:00 UTC","CCP User",Disabled
+445,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:51:00 UTC","CCP User",Disabled
+446,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 13:53:36 UTC","CCP User",Disabled
+447,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 13:53:36 UTC","CCP User",Disabled
+448,"User kupul-ca logged in to admin",Users,"2023-11-29 16:09:26 UTC","CCP User",Disabled
+449,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 16:10:16 UTC","CCP User",Disabled
+450,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 16:10:16 UTC","CCP User",Disabled
+451,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 16:11:00 UTC","CCP User",Disabled
+452,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 16:11:00 UTC","CCP User",Disabled
+453,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 16:13:40 UTC","CCP User",Disabled
+454,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 16:13:40 UTC","CCP User",Disabled
+455,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 16:14:17 UTC","CCP User",Disabled
+456,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 16:14:17 UTC","CCP User",Disabled
+457,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:14:42 UTC","CCP User",Disabled
+458,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:14:42 UTC","CCP User",Disabled
+459,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 16:15:55 UTC","CCP User",Disabled
+460,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:24:27 UTC","CCP User",Disabled
+461,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 16:24:44 UTC","CCP User",Disabled
+462,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:30:32 UTC","CCP User",Disabled
+463,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 16:30:53 UTC","CCP User",Disabled
+464,PLG_SYSTEM_ACTIONLOGS_CONTENT_DELETED,Media,"2023-11-29 16:35:27 UTC","CCP User",Disabled
+465,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:35:34 UTC","CCP User",Disabled
+466,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 16:35:45 UTC","CCP User",Disabled
+467,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Templates,"2023-11-29 16:36:06 UTC","CCP User",Disabled
+468,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:39:26 UTC","CCP User",Disabled
+469,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:39:26 UTC","CCP User",Disabled
+470,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:40:22 UTC","CCP User",Disabled
+471,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:40:22 UTC","CCP User",Disabled
+472,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:40:38 UTC","CCP User",Disabled
+473,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:40:38 UTC","CCP User",Disabled
+474,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:40:51 UTC","CCP User",Disabled
+475,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:40:51 UTC","CCP User",Disabled
+476,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:41:03 UTC","CCP User",Disabled
+477,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:41:03 UTC","CCP User",Disabled
+478,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:41:13 UTC","CCP User",Disabled
+479,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:41:13 UTC","CCP User",Disabled
+480,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:41:27 UTC","CCP User",Disabled
+481,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:41:27 UTC","CCP User",Disabled
+482,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:41:37 UTC","CCP User",Disabled
+483,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:41:37 UTC","CCP User",Disabled
+484,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:41:48 UTC","CCP User",Disabled
+485,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:41:48 UTC","CCP User",Disabled
+486,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:42:01 UTC","CCP User",Disabled
+487,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:42:01 UTC","CCP User",Disabled
+488,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:43:42 UTC","CCP User",Disabled
+489,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:43:42 UTC","CCP User",Disabled
+490,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:43:57 UTC","CCP User",Disabled
+491,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:43:57 UTC","CCP User",Disabled
+492,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:44:10 UTC","CCP User",Disabled
+493,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:44:10 UTC","CCP User",Disabled
+494,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:44:23 UTC","CCP User",Disabled
+495,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:44:23 UTC","CCP User",Disabled
+496,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:44:35 UTC","CCP User",Disabled
+497,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:44:35 UTC","CCP User",Disabled
+498,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:44:45 UTC","CCP User",Disabled
+499,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:44:45 UTC","CCP User",Disabled
+500,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:44:57 UTC","CCP User",Disabled
+501,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:44:57 UTC","CCP User",Disabled
+502,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:45:08 UTC","CCP User",Disabled
+503,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:45:08 UTC","CCP User",Disabled
+504,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:45:31 UTC","CCP User",Disabled
+505,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:45:31 UTC","CCP User",Disabled
+506,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 16:45:44 UTC","CCP User",Disabled
+507,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 16:45:44 UTC","CCP User",Disabled
+508,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:50:36 UTC","CCP User",Disabled
+509,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:50:39 UTC","CCP User",Disabled
+510,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:50:39 UTC","CCP User",Disabled
+511,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:50:39 UTC","CCP User",Disabled
+512,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:50:39 UTC","CCP User",Disabled
+513,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 16:55:49 UTC","CCP User",Disabled
+514,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 16:59:50 UTC","CCP User",Disabled
+515,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:00:02 UTC","CCP User",Disabled
+516,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 17:00:02 UTC","CCP User",Disabled
+517,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:03:48 UTC","CCP User",Disabled
+518,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:03:48 UTC","CCP User",Disabled
+519,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:04:52 UTC","CCP User",Disabled
+520,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:04:52 UTC","CCP User",Disabled
+521,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:05:39 UTC","CCP User",Disabled
+522,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:05:39 UTC","CCP User",Disabled
+523,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:06:10 UTC","CCP User",Disabled
+524,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:06:10 UTC","CCP User",Disabled
+525,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:06:49 UTC","CCP User",Disabled
+526,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 17:06:49 UTC","CCP User",Disabled
+527,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:09:42 UTC","CCP User",Disabled
+528,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:09:42 UTC","CCP User",Disabled
+529,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:09:49 UTC","CCP User",Disabled
+530,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 17:09:49 UTC","CCP User",Disabled
+531,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:13:12 UTC","CCP User",Disabled
+532,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:13:12 UTC","CCP User",Disabled
+533,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:13:19 UTC","CCP User",Disabled
+534,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Modules,"2023-11-29 17:13:19 UTC","CCP User",Disabled
+535,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:15:31 UTC","CCP User",Disabled
+536,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:15:31 UTC","CCP User",Disabled
+537,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:17:47 UTC","CCP User",Disabled
+538,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:17:47 UTC","CCP User",Disabled
+539,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:18:35 UTC","CCP User",Disabled
+540,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:18:35 UTC","CCP User",Disabled
+541,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:19:18 UTC","CCP User",Disabled
+542,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:19:18 UTC","CCP User",Disabled
+543,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:19:50 UTC","CCP User",Disabled
+544,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:19:50 UTC","CCP User",Disabled
+545,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:20:48 UTC","CCP User",Disabled
+546,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:20:48 UTC","CCP User",Disabled
+547,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:21:21 UTC","CCP User",Disabled
+548,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:21:21 UTC","CCP User",Disabled
+549,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:21:38 UTC","CCP User",Disabled
+550,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:21:38 UTC","CCP User",Disabled
+551,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:22:21 UTC","CCP User",Disabled
+552,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:22:21 UTC","CCP User",Disabled
+553,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:22:46 UTC","CCP User",Disabled
+554,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:22:46 UTC","CCP User",Disabled
+555,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-29 17:23:08 UTC","CCP User",Disabled
+556,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-29 17:23:08 UTC","CCP User",Disabled
+557,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-29 17:23:27 UTC","CCP User",Disabled
+558,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-29 17:23:27 UTC","CCP User",Disabled
+559,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-29 17:23:44 UTC","CCP User",Disabled
+560,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:24:27 UTC","CCP User",Disabled
+561,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:24:27 UTC","CCP User",Disabled
+562,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Menus,"2023-11-29 17:25:16 UTC","CCP User",Disabled
+563,"User kupul-ca performed a check in to table #__menu",Check-in,"2023-11-29 17:25:16 UTC","CCP User",Disabled
+564,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:31:58 UTC","CCP User",Disabled
+565,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:31:58 UTC","CCP User",Disabled
+566,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:34:06 UTC","CCP User",Disabled
+567,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:34:06 UTC","CCP User",Disabled
+568,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:38:59 UTC","CCP User",Disabled
+569,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:38:59 UTC","CCP User",Disabled
+570,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:39:13 UTC","CCP User",Disabled
+571,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:39:13 UTC","CCP User",Disabled
+572,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Articles,"2023-11-29 17:40:28 UTC","CCP User",Disabled
+573,"User kupul-ca performed a check in to table #__content",Check-in,"2023-11-29 17:40:28 UTC","CCP User",Disabled
+574,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Users,"2023-11-29 17:48:41 UTC","CCP User",Disabled
+575,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Users,"2023-11-29 17:48:51 UTC","CCP User",Disabled
+576,PLG_SYSTEM_ACTIONLOGS_CONTENT_ADDED,Media,"2023-11-29 17:52:54 UTC","CCP User",Disabled
+577,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:53:47 UTC","CCP User",Disabled
+578,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:53:47 UTC","CCP User",Disabled
+579,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:54:33 UTC","CCP User",Disabled
+580,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:54:33 UTC","CCP User",Disabled
+581,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:54:51 UTC","CCP User",Disabled
+582,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:54:51 UTC","CCP User",Disabled
+583,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:55:08 UTC","CCP User",Disabled
+584,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:55:08 UTC","CCP User",Disabled
+585,PLG_SYSTEM_ACTIONLOGS_CONTENT_UPDATED,Modules,"2023-11-29 17:55:42 UTC","CCP User",Disabled
+586,"User kupul-ca performed a check in to table #__modules",Check-in,"2023-11-29 17:55:42 UTC","CCP User",Disabled
+587,"User kupul-ca logged in to admin",Users,"2023-11-29 17:57:42 UTC","CCP User",Disabled
+588,"User kupul-ca installed the component Akeeba Backup &lt;small&gt;for Joomla!&amp;trade;&lt;/small&gt;",Installer,"2023-11-29 18:11:08 UTC","CCP User",Disabled
+589,"User kupul-ca installed the plugin Quick Icon - Akeeba Backup Notification",Installer,"2023-11-29 18:11:08 UTC","CCP User",Disabled
+590,"User kupul-ca installed the package Akeeba Backup for Joomla! package",Installer,"2023-11-29 18:11:08 UTC","CCP User",Disabled
+591,"User kupul-ca logged in to admin",Users,"2023-11-29 19:05:23 UTC","CCP User",Disabled
